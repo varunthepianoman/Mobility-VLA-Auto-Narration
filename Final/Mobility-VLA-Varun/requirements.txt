@@ -1,0 +1,4 @@
+opencv-python
+networkx
+matplotlib
+bpy
